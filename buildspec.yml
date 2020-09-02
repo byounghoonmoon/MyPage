@@ -3,8 +3,8 @@ version: 0.2
 env:
   variables:
     _PROJECT_NAME: "mypage"
-    _NAMESPACE: "skcc-ns"
     _ECR_NAME: "user14"
+    _NAMESPACE: "skcc-ns"
     _AWS_REGION: "ap-southeast-1"
 
 phases:
